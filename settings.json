@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "CiderMC.aternos.me",
+    "port": 64927,
     "version": "",
     "try-creative": false
   },
