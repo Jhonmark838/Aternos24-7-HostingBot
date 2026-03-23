@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CiderMC.aternos.me",
-    "port": 64927,
+    "ip": "Goodcraft_s1.aternos.me",
+    "port": 42923,
     "version": "",
     "try-creative": false
   },
