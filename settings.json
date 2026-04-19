@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "Goodcraft_s1.aternos.me",
-    "port": ,
-    "version": "42923",
+    "port": "42923",
+    "version": "",
     "try-creative": false
   },
   "position": {
